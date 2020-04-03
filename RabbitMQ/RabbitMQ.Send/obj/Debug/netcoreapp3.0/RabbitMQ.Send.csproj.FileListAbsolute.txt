@@ -1,13 +1,13 @@
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.exe
-C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.csprojAssemblyReference.cache
-C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.AssemblyInfoInputs.cache
-C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.AssemblyInfo.cs
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.deps.json
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.runtimeconfig.json
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.runtimeconfig.dev.json
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.dll
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Send.pdb
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.csprojAssemblyReference.cache
+C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.AssemblyInfoInputs.cache
+C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.AssemblyInfo.cs
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.csproj.CopyComplete
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.dll
 C:\Users\pedro.verceze\Documents\Projetos pessoais\RabbitmqDotNet\RabbitMQClientDotNet\RabbitMQ\RabbitMQ.Send\obj\Debug\netcoreapp3.0\RabbitMQ.Send.pdb
